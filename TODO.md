@@ -1,0 +1,3 @@
+- [x] Add footer HTML in index.html after contact section with email icon
+- [x] Add footer CSS styling in style.css
+- [x] Test the page to verify footer appears correctly
